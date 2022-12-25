@@ -10,6 +10,7 @@ public class window extends JFrame {
         // Add a window panel object to pack it nicely
         this.add(windowPanel);
         this.setBackground(Color.black);
+        windowPanel.createPoints();
         this.setTitle("Voronoi Diagram");
         this.pack();
         this.setLocationRelativeTo(null);
