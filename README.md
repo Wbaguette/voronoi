@@ -1,7 +1,7 @@
 # voronoi
 Voronoi Diagram 
 https://en.wikipedia.org/wiki/Voronoi_diagram
-Small project using base Java graphic library to display a 2D voronoi diagram 
+Small project using base Java graphic library to display a 2D voronoi diagram. 
 This is the 'naive' approach, i.e. iterating through every individual pixel and for each pixel iterating through all seeds
 
  Overall Steps:
